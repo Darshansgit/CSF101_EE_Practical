@@ -1,2 +1,3 @@
+studentName= "Namkhay Yoesel Tshering"
 
-print("fix")
+print(studentName + " is absent today")
